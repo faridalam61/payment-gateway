@@ -1175,5 +1175,3 @@ Use static IP addresses for production servers.
 - Sufficient balance for transaction amount
 - Has active gateway for selected payment method
 - No pending transactions (to show wallet number)
-
-**Weighting Factors:**
